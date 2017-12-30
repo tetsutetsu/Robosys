@@ -4,7 +4,7 @@ RaspBerry Pi 3 Model B のLEDを点灯させるデバイスドライバ
 
 # 各bashファイルの説明
 
-### flas.bash
+###flas.bash
 `bash flash.bash n m`
 
 n：点滅回数
