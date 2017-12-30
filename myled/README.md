@@ -4,21 +4,21 @@ RaspBerry Pi 3 Model B のLEDを点灯させるデバイスドライバ
 
 # 各bashファイルの説明
 
-###flas.bash
+### flas.bash
 `bash flash.bash n m`
 
 n：点滅回数
 
 m：点滅の秒間隔
 
-###flash_loop.bash
+### flash_loop.bash
 `bash flash_loop.bash m`
 
 m：点滅の秒間隔
 
 点滅回数制限なし
 
-###flash_loop_random.bash
+### flash_loop_random.bash
 `bash flash_loop_random.bash`
 
 ランダム(5秒以内)の間隔で点滅
